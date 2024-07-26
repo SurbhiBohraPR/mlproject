@@ -1,0 +1,11 @@
+1. Create GitHub repo
+2. Open the conda prompt 
+3. from conda cd and the path of the folder for project cd C:\Users\surbhi\Desktop\ProjectsML
+4. launch the vs code by writing code . in conda promt 
+5. we create an virtual venev in vs code using vscode command promt {}    conda create -p venv python==3.8 -y
+6. Then, write coda activate venv/ in vscode cmd
+7. sync with GitHub so that we can comit the code to specific repo first 
+8. initialize the git , git init 
+9. then create a readme file in vscode using +button readme.md , to write the description 
+
+
